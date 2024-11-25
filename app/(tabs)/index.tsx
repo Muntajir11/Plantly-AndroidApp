@@ -5,6 +5,7 @@ import { theme } from '@/theme';
 export default function App() {
   return (
     <View style={styles.container}>
+      
       <Text>Start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
