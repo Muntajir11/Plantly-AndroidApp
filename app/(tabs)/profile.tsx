@@ -1,6 +1,6 @@
 import { View, StyleSheet} from "react-native";
 import { theme } from "@/theme";
-import { useUserStore } from "@/store/userStrore";
+import { useUserStore } from "@/store/userStore";
 import { PlantlyButton } from "@/components/PlantlyButton";
 
 export default function ProfileScreen() {
